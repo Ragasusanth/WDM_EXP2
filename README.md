@@ -58,3 +58,4 @@ G40,high,yes,excellent,yes
 <img width="1920" height="1146" alt="image" src="https://github.com/user-attachments/assets/9bb7602a-fe31-40b9-88c5-855969dc6f6d" />
 
 ### RESULT: 
+Thus, the association rules for the Buying dataset were successfully generated using the Apriori algorithm in WEKA. The algorithm identified frequent itemsets and generated association rules based on the specified minimum support and confidence values, revealing relationships among age, income, student status, credit rating, and computer purchasing behavior.
