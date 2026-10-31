@@ -55,6 +55,6 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1e451f4e-1278-4c37-b4e5-c367f60f1433" />
+<img width="1920" height="1146" alt="image" src="https://github.com/user-attachments/assets/9bb7602a-fe31-40b9-88c5-855969dc6f6d" />
 
 ### RESULT: 
